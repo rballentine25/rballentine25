@@ -1,2 +1,6 @@
-## Hi! I'm Rachael Ballentine
-I'm a fourth year student studying Mechanical Engineering with a minor in Computer Science at Wright State University. 
+## Hi! 
+###I'm Rachael, a 4th year Mechanical Engineering student at Wright State University
+
+currently working on:
+* learning python/machine learning concepts for OSGC scholarship: [learning-python](https://github.com/rballentine25/learning-python)
+* ceg2350 operating systems concepts and usage
