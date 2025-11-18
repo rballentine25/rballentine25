@@ -1,8 +1,9 @@
 ## About Me
 - B.S. Mechanical Engineering
-- Graduate Student in Computer Science 
+- Graduate Student in Computer Science
+    
 
-#### Languages and Frameworks
+### Languages and Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
